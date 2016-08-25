@@ -1,0 +1,45 @@
+body {
+    background-color: #9fff80 ;
+}
+
+h1 {
+    border: 3px dotted red;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
+
+p {
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 14px;
+}
+
+body {
+    color: #ff80bf;
+}
+
+h1 {
+    color: #ff9f80;
+}
+
+
+a:visited {
+    color: #ffff00;
+}
+
+a:link {
+    color: #ff3333;
+}
+
+a:hover {
+    color: #00ffff;
+}
+
+img {
+    max-width: 100%;
+}
